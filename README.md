@@ -1,7 +1,4 @@
-<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Focado+em%3A+Programação;Focado+em%3A+Infraestrutura;Focado+em%3A+DevOps;Focado+em%3A+Automações" alt="Typing SVG">
-</p>
+<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou Kauã Ferreira! 🌟</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+GitHub!+;Onde+tecnologia+e+inovação+se+encontram!;Sempre+explorando+novos+desafios!;Criando+soluções+com+paixão+e+dedicação!;Transformando+ideias+em+projetos+impactantes!;Focado+em+automação+e+futuro!;Construindo+um+mundo+digital+melhor!;Entusiasta+de+infraestrutura+e+automação!;Cada+linha+de+código+é+um+passo+para+o+futuro!" alt="Typing SVG">
 </p>
@@ -12,7 +9,7 @@
 </p>
 
 <p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Olá! Eu sou o <b>zKauaFerreira</b>, um entusiasta de tecnologia com uma paixão por DevOps, automação e inovação. Sempre em busca de desafios, me dedico a explorar novas ferramentas e metodologias que me permitam criar soluções escaláveis e eficientes. Acredito no poder da colaboração e no aprendizado contínuo, seja compartilhando conhecimentos ou aprimorando minhas próprias habilidades. Transformar ideias em projetos impactantes é o que me motiva todos os dias!
+  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de tecnologia com uma paixão por DevOps, automação e inovação. Sempre em busca de desafios, me dedico a explorar novas ferramentas e metodologias que me permitam criar soluções escaláveis e eficientes. Acredito no poder da colaboração e no aprendizado contínuo, seja compartilhando conhecimentos ou aprimorando minhas próprias habilidades. Transformar ideias em projetos impactantes é o que me motiva todos os dias!
 
 </p>
 
@@ -164,15 +161,15 @@
 
 <h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zKauaFerreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKauaFerreira&layout=compact&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&border_radius=10&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauã Ferreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauã Ferreira&layout=compact&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&border_radius=10&hide_border=true" alt="Top Languages" width="48%">
 </div>
 
 ---
 
 <h2 align="center" style="color:#8e44ad;">🌟 Meus Destaques</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zKauaFerreira&theme=algolia&no-frame=true&row=1&column=6" alt="Troféus do GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kauã Ferreira&theme=algolia&no-frame=true&row=1&column=6" alt="Troféus do GitHub">
 </div>
 
 ---
@@ -185,7 +182,7 @@
   <a href="mailto:seu-email@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
   </a>
-  <a href="https://github.com/zKauaFerreira" target="_blank">
+  <a href="https://github.com/Kauã Ferreira" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub">
   </a>
 </p>
