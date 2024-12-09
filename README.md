@@ -2,21 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&pause=1000&color=FFC300&center=true&vCenter=true&width=900&height=60&lines=✨+Bem-vindo(a)+ao+GitHub+do+zKauaFerreira!+✨" alt="Typing SVG">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link/banner-custom.png" alt="zKauaFerreira Banner" width="100%" style="border-radius: 15px;">
-</div>
-
 ---
 
-<h2 align="center" style="color:#16a085;">🌟 Sobre Mim</h2>
+<h2 align="center" style="color:#16a085; font-size:36px;">🌟 Olá, eu sou o zKauaFerreira! 🌟</h2>
+
+<p align="center" style="font-size:20px; color:#2c3e50;">
+  👋 Seja muito bem-vindo(a) ao meu GitHub! Aqui, você vai encontrar minha jornada como desenvolvedor e entusiasta de tecnologia. 🌐<br>
+  🚀 Minha paixão é construir soluções inovadoras e transformar ideias em realidade. Estou sempre em busca de aprender, evoluir e aplicar novas tecnologias para impactar positivamente o mundo ao meu redor. 💡<br>
+  🔧 Junte-se a mim nesse caminho, onde cada linha de código é uma oportunidade para crescer e criar algo incrível! 🚀
+</p>
+
 <div align="center">
+  <!-- Aqui, você pode adicionar um ícone ou uma imagem visual que combine com sua identidade -->
   <img src="https://cdn-icons-png.flaticon.com/512/4144/4144565.png" width="150" alt="Sobre Mim Icon">
 </div>
-<p align="center" style="font-size:20px; color:#ecf0f1; margin: 20px 0;">
-  👋 Olá! Sou o <strong>zKauaFerreira</strong>, um apaixonado por tecnologia e inovação.<br>
-  🚀 Desenvolvedor focado em soluções criativas para infraestrutura, automação e DevOps.<br>
-  🌌 Meu objetivo? Transformar ideias em projetos escaláveis e impactantes.
-</p>
+
 
 ---
 
