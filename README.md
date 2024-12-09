@@ -188,8 +188,8 @@
 <p align="center" style="font-size: 20px; color:#bdc3c7; line-height: 1.8; letter-spacing: 0.5px; font-family: 'Roboto', sans-serif;">
   <span style="color:#9b59b6;">🌌</span> Fascinado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
   <span style="color:#9b59b6;">🕹️</span> Curto explorar <strong>games</strong> e criar mods com Lua.<br>
-  <span style="color:#9b59b6;">🛠️</span> Sempre buscando novos <strong>desafios</strong>.<br><br>
-  <span style="color:#9b59b6;">🚀</span> Aprender e inovar são minhas maiores paixões!
+  <span style="color:#9b59b6;">🛠️</span> Sempre buscando novos <strong>desafios</strong>.<br>
+  <span style="color:#9b59b6;">🚀</span> Aprender e inovar são minhas maiores paixões!<br>
 </p>
 
 <div align="center">
