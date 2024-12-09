@@ -1,59 +1,76 @@
-<h1 align="center" style="color:#9b59b6;">✨ Bem-vindo(a) ao meu GitHub, zKauaFerreira! ✨</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&height=80&lines=Desenvolvedor+Fullstack;Entusiasta+DevOps;Apaixonado+por+Automação+e+Infraestrutura!;Sempre+aprendendo+e+inovando!" alt="Typing SVG">
+<div align="center" style="margin-bottom:20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&pause=1000&color=FFC300&center=true&vCenter=true&width=900&height=60&lines=✨+Bem-vindo(a)+ao+GitHub+do+zKauaFerreira!+✨" alt="Typing SVG">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link/banner-custom.png" alt="zKauaFerreira Banner" width="100%" style="border-radius: 15px;">
+</div>
+
+---
+
+<h2 align="center" style="color:#16a085;">🌟 Sobre Mim</h2>
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4144/4144565.png" width="150" alt="Sobre Mim Icon">
+</div>
+<p align="center" style="font-size:20px; color:#ecf0f1; margin: 20px 0;">
+  👋 Olá! Sou o <strong>zKauaFerreira</strong>, um apaixonado por tecnologia e inovação.<br>
+  🚀 Desenvolvedor focado em soluções criativas para infraestrutura, automação e DevOps.<br>
+  🌌 Meu objetivo? Transformar ideias em projetos escaláveis e impactantes.
 </p>
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="120" alt="Sobre Mim Icon">
+<h2 align="center" style="color:#16a085;">💻 Minhas Habilidades Atuais</h2>
+<div align="center" style="margin-top:20px;">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,docker" alt="Skills" style="border-radius:10px;">
+</div>
+<p align="center" style="color:#bdc3c7; font-size:16px;">
+  <strong>Conhecimentos em:</strong> Python, HTML, CSS, JavaScript e Docker.<br>
+  🔧 <em>Ferramentas que utilizo para criar soluções robustas e otimizadas.</em>
 </p>
-<p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Meu nome é <b>zKauaFerreira</b>, sou um desenvolvedor apaixonado por tecnologia e por encontrar soluções criativas para desafios do dia a dia. Meu foco está em infraestrutura e automação, sempre buscando criar projetos escaláveis e bem otimizados. 🚀
+
+---
+
+<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Estou Aprendendo</h2>
+<div align="center" style="margin-top:20px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,lua,cpp,cs,linux" alt="Future Skills" style="border-radius:10px;">
+</div>
+<p align="center" style="color:#bdc3c7; font-size:16px;">
+  <strong>Explorando:</strong> Node.js, Lua, C++, C# e Linux.<br>
+  🎯 <em>Buscando expandir meus horizontes e aprimorar minhas habilidades.</em>
 </p>
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">💻 Minhas Habilidades Atuais</h2>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" alt="Python Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50" alt="HTML Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50" alt="CSS Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" alt="JavaScript Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" alt="Docker Icon"></td>
-  </tr>
-  <tr>
-    <td align="center">Python</td>
-    <td align="center">HTML</td>
-    <td align="center">CSS</td>
-    <td align="center">JavaScript</td>
-    <td align="center">Docker</td>
-  </tr>
-</table>
 
----
 
-<h2 align="center" style="color:#8e44ad;">🚀 Tecnologias que gostaria de aprender</h2>
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" alt="Node.js Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969175.png" width="50" alt="Lua Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50" alt="C++ Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969188.png" width="50" alt="C# Icon"></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="50" alt="Linux Icon"></td>
-  </tr>
-  <tr>
-    <td align="center">Node.js</td>
-    <td align="center">Lua</td>
-    <td align="center">C++</td>
-    <td align="center">C#</td>
-    <td align="center">Linux</td>
-  </tr>
-</table>
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
 <div align="center">
