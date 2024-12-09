@@ -74,8 +74,9 @@
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>🚀 Com essas ferramentas, estou construindo soluções cada vez mais eficientes! 💡</em>
+  <em>🚀 Ainda não sou um profissional, mas gosto de explorar essas ferramentas para criar soluções eficientes! 💡</em>
 </p>
+
 
 ---
 
