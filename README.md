@@ -84,6 +84,10 @@
         <strong>Lua</strong>
       </td>
       <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="50" alt="FreeBSD Icon"><br>
+        <strong>C</strong>
+      </td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++ Icon"><br>
         <strong>C++</strong>
       </td>
@@ -106,16 +110,12 @@
         <strong>Rust</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=freebsd" width="50" alt="FreeBSD Icon"><br>
-        <strong>FreeBSD</strong>
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" alt="Cybersecurity Icon"><br>
+        <strong>Raspbarry Pi</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cybersecurity" width="50" alt="Cybersecurity Icon"><br>
-        <strong>Cybersecurity</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ml" width="50" alt="Machine Learning Icon"><br>
-        <strong>Machine Learning</strong>
+        <img src="https://skillicons.dev/icons?i=blender" width="50" alt="Machine Learning Icon"><br>
+        <strong>Blender</strong>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=elixir" width="50" alt="Elixir Icon"><br>
