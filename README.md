@@ -1,38 +1,21 @@
 <div align="center" style="margin-bottom:20px;">
-  <!-- Typing Animation for welcoming message -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&pause=1000&color=FFC300&center=true&vCenter=true&width=900&height=60&lines=✨+Bem-vindo(a)+ao+GitHub+do+zKauaFerreira!+✨" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <!-- Custom GIF for dynamic welcome -->
-  <iframe src="https://giphy.com/embed/xUOxvKz8JzEdHi8Vw0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://user-images.githubusercontent.com/your-image-link/banner-custom.png" alt="zKauaFerreira Banner" width="100%" style="border-radius: 15px;">
 </div>
 
 ---
 
-<h2 align="center" style="color:#16a085; font-size:36px;">🌟 Olá, eu sou o zKauaFerreira! 🌟</h2>
-
-<p align="center" style="font-size:20px; color:#2c3e50;">
-  👋 Bem-vindo ao meu GitHub! Sou apaixonado por <strong>tecnologia</strong> e sempre em busca de inovações para <strong>transformar ideias em soluções impactantes</strong>.<br>
-  🚀 Estou constantemente explorando novas ferramentas e tecnologias, com foco em <strong>infraestrutura</strong>, <strong>DevOps</strong> e <strong>automação</strong>.<br>
-  💻 Meu objetivo é criar sistemas que sejam ágeis, escaláveis e eficientes, conectando pessoas e tecnologias de forma inovadora.<br>
-  🔧 Vamos criar juntos um futuro mais tecnológico e colaborativo!
-</p>
-
+<h2 align="center" style="color:#16a085;">🌟 Sobre Mim</h2>
 <div align="center">
-  <!-- Progress bar to show learning and growth -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKauaFerreira&layout=compact&theme=dark&langs_count=10&hide=html,css" alt="Top Languages">
+  <img src="https://cdn-icons-png.flaticon.com/512/4144/4144565.png" width="150" alt="Sobre Mim Icon">
 </div>
-
----
-
-<h2 align="center" style="color:#16a085;">🔮 O que estou aprendendo atualmente</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=lua,c,cpp,cs,react,rust,tailwind" width="100%" alt="Learning Technologies">
-</div>
-
-<p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>✨ Cada novo aprendizado é uma nova aventura no universo da tecnologia! 🚀</em>
+<p align="center" style="font-size:20px; color:#ecf0f1; margin: 20px 0;">
+  👋 Olá! Sou o <strong>zKauaFerreira</strong>, um apaixonado por tecnologia e inovação.<br>
+  🚀 Desenvolvedor focado em soluções criativas para infraestrutura, automação e DevOps.<br>
+  🌌 Meu objetivo? Transformar ideias em projetos escaláveis e impactantes.
 </p>
 
 ---
