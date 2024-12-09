@@ -70,7 +70,7 @@
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Tenho conhecimento e experiência prática com essas tecnologias, e continuo constantemente aprimorando minhas habilidades para soluções ainda mais eficientes.</em>
+  <em>🚀 Com essas ferramentas, estou construindo soluções cada vez mais eficientes! 💡</em>
 </p>
 
 ---
@@ -125,7 +125,7 @@
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>No futuro, pretendo me aprofundar nessas tecnologias, expandindo minhas habilidades e explorando novas oportunidades de aprendizado e desenvolvimento.</em>
+  <em>🔥 No futuro, vou me aprofundar nessas tecnologias para criar soluções ainda mais inovadoras! 💥</em>
 </p>
 
 
