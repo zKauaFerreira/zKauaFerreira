@@ -184,16 +184,15 @@
 </p>
 
 ---
-
 <h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace; font-size: 2.5em; border-bottom: 3px solid #9b59b6; padding-bottom: 10px;">🎮 Curiosidades</h2>
 <p align="center" style="font-size: 20px; color:#bdc3c7; line-height: 1.8; letter-spacing: 0.5px; font-family: 'Roboto', sans-serif;">
-  <span style="color:#9b59b6;">🌌</span> Sou fascinado pelo universo da <strong>automação</strong> e <strong>infraestrutura</strong>, sempre buscando aprimorar meus conhecimentos.<br>
-  <span style="color:#9b59b6;">🕹️</span> Durante meu tempo livre, gosto de explorar o mundo dos <strong>games</strong> e criar mods incríveis usando Lua, desafiando minha criatividade.<br>
-  <span style="color:#9b59b6;">🛠️</span> Estou sempre em busca de novos <strong>desafios</strong> para crescer, inovar e construir o futuro da tecnologia.<br><br>
-  <span style="color:#9b59b6;">🚀</span> A cada dia, um novo passo na jornada do conhecimento!
+  <span style="color:#9b59b6;">🌌</span> Fascinado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
+  <span style="color:#9b59b6;">🕹️</span> Curto explorar <strong>games</strong> e criar mods com Lua.<br>
+  <span style="color:#9b59b6;">🛠️</span> Sempre buscando novos <strong>desafios</strong>.<br><br>
+  <span style="color:#9b59b6;">🚀</span> Aprender e inovar são minhas maiores paixões!
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&height=80&lines=Com+a+curiosidade+que+você+aprende!;A+curiosidade+é+a+chave+para+o+futuro!" alt="Typing SVG">
+  <p style="font-family: 'Dancing Script', cursive; font-size: 24px; color:#9b59b6; padding-top: 10px; font-weight: bold;">"Com a curiosidade que você aprende."</p>
 </div>
 
