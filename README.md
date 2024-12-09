@@ -115,8 +115,8 @@
         <strong>Raspberry Pi</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=elixir" width="50" alt="Elixir Icon"><br>
-        <strong>Elixir</strong>
+        <img src="https://skillicons.dev/icons?i=java" width="50" alt="Elixir Icon"><br>
+        <strong>Java</strong>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=cmake" width="50" alt="CMake Icon"><br>
