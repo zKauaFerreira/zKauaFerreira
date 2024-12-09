@@ -133,38 +133,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zKauaFerreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
@@ -179,15 +147,29 @@
 </div>
 
 ---
+
 <h2 align="center" style="color:#8e44ad;">📫 Vamos nos Conectar</h2>
-<p align="center">
-  <a href="mailto:kauaff3@gmail.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" alt="Email" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
-  </a>
-  <a href="https://github.com/zKauaFerreira" target="_blank" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:kauaff3@gmail.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" alt="Email" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
+        </a>
+        <br>
+        <span style="color:#bdc3c7;">Email</span>
+      </td>
+      <td align="center">
+        <a href="https://github.com/zKauaFerreira" target="_blank" style="text-decoration: none; margin: 0 20px;">
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
+        </a>
+        <br>
+        <span style="color:#bdc3c7;">GitHub</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 <h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace; font-size: 2.5em; border-bottom: 3px solid #9b59b6; padding-bottom: 10px;">🎮 Curiosidades</h2>
