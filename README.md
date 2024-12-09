@@ -70,7 +70,7 @@
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Essas são as tecnologias que já entendo e utilizo para criar soluções eficientes e robustas.</em>
+  <em>Tenho conhecimento e experiência prática com essas tecnologias, e continuo constantemente aprimorando minhas habilidades para soluções ainda mais eficientes.</em>
 </p>
 
 ---
@@ -113,12 +113,21 @@
         <img src="https://skillicons.dev/icons?i=elixir" width="50" alt="Elixir Icon"><br>
         <strong>Elixir</strong>
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cmake" width="50" alt="CMake Icon"><br>
+        <strong>CMake</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma Icon"><br>
+        <strong>Figma</strong>
+      </td>
     </tr>
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Estou me dedicando ao aprendizado de novas tecnologias como Rust, React, Machine Learning, Elixir e muito mais no futuro!</em>
+  <em>No futuro, pretendo me aprofundar nessas tecnologias, expandindo minhas habilidades e explorando novas oportunidades de aprendizado e desenvolvimento.</em>
 </p>
+
 
 
 ---
