@@ -59,18 +59,18 @@
         <strong>Node.js</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=shell" width="50" alt="Shell Script Icon"><br>
+        <img src="https://skillicons.dev/icons?i=powershell" width="50" alt="Shell Script Icon"><br>
         <strong>Shell Script</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=batch" width="50" alt="Batch Icon"><br>
-        <strong>Batch</strong>
+        <img src="https://skillicons.dev/icons?i=bash" width="50" alt="Batch Icon"><br>
+        <strong>Bash</strong>
       </td>
     </tr>
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Essas são as tecnologias que já domino e utilizo para criar soluções eficientes e robustas.</em>
+  <em>Essas são as tecnologias que já entendo e utilizo para criar soluções eficientes e robustas.</em>
 </p>
 
 ---
@@ -82,10 +82,6 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=lua" width="50" alt="Lua Icon"><br>
         <strong>Lua</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=c" width="50" alt="FreeBSD Icon"><br>
-        <strong>C</strong>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++ Icon"><br>
@@ -110,12 +106,8 @@
         <strong>Rust</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" alt="Cybersecurity Icon"><br>
-        <strong>Raspbarry Pi</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=blender" width="50" alt="Machine Learning Icon"><br>
-        <strong>Blender</strong>
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" alt="Raspberry Pi Icon"><br>
+        <strong>Raspberry Pi</strong>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=elixir" width="50" alt="Elixir Icon"><br>
@@ -125,8 +117,9 @@
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Estou me dedicando ao aprendizado de novas tecnologias como Rust, React, Machine Learning, Elixir e muito mais!</em>
+  <em>Estou me dedicando ao aprendizado de novas tecnologias como Rust, React, Machine Learning, Elixir e muito mais no futuro!</em>
 </p>
+
 
 ---
 
