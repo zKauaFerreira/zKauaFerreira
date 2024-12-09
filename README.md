@@ -183,6 +183,7 @@
   <span style="color:#9b59b6;">🔧</span> Me divirto com a construção de <strong>ferramentas</strong> e scripts.<br>
 </p>
 
+---
 
 <div align="center">
   <p style="font-size: 28px; color:#9b59b6; font-weight: bold; padding: 20px 10px; border-radius: 10px; background: linear-gradient(to right, #9b59b6, #8e44ad); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
