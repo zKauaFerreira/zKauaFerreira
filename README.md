@@ -21,26 +21,77 @@
 ---
 
 <h2 align="center" style="color:#16a085;">💻 Minhas Habilidades Atuais</h2>
-<div align="center" style="margin-top:20px;">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,docker" alt="Skills" style="border-radius:10px;">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python Icon"><br>
+        <strong>Python</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML Icon"><br>
+        <strong>HTML</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS Icon"><br>
+        <strong>CSS</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript Icon"><br>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker Icon"><br>
+        <strong>Docker</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <strong>Conhecimentos em:</strong> Python, HTML, CSS, JavaScript e Docker.<br>
-  🔧 <em>Ferramentas que utilizo para criar soluções robustas e otimizadas.</em>
+  <em>Essas são as ferramentas que utilizo para criar soluções robustas e otimizar processos.</em>
 </p>
 
 ---
 
-<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Estou Aprendendo</h2>
-<div align="center" style="margin-top:20px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,lua,cpp,cs,linux" alt="Future Skills" style="border-radius:10px;">
+<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Estou Estudando</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js Icon"><br>
+        <strong>Node.js</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=lua" width="50" alt="Lua Icon"><br>
+        <strong>Lua</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++ Icon"><br>
+        <strong>C++</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cs" width="50" alt="C# Icon"><br>
+        <strong>C#</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Icon"><br>
+        <strong>React</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS Icon"><br>
+        <strong>Tailwind</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <strong>Explorando:</strong> Node.js, Lua, C++, C# e Linux.<br>
-  🎯 <em>Buscando expandir meus horizontes e aprimorar minhas habilidades.</em>
+  <em>Atualmente, estou me aprofundando em Node.js, Lua, C++, C#, React, Tailwind e outros frameworks que expandem minhas habilidades.</em>
 </p>
 
 ---
+
 
 
 
