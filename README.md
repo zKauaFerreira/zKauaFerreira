@@ -3,16 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=DevOps+e+Entusiasta+de+Infraestrutura!;Desenvolvedor+em+Constante+Evolução!;Criando+Solucões+Inteligentes+%F0%9F%92%BB;Aprendendo+e+Ensinando+Sempre!;Transformando+Ideias+em+Código!;Focado+em+Inovação+e+Automação!;Buscando+Oportunidades+de+Crescimento!;Apaixonado+por+Tecnologia+e+Futuro!;Crescendo+a+cada+linha+de+código!" alt="Typing SVG">
 </p>
 
-
----
-
 <h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100" height="100" alt="Sobre Mim Icon">
 </p>
 
 <p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Olá! Meu nome é <b>zKauaFerreira</b>, um desenvolvedor apaixonado por tecnologia, DevOps e soluções criativas. Adoro explorar novas linguagens, ferramentas e métodos para criar soluções inteligentes e impactantes.
+  👋 Olá! Eu sou o <b>zKauaFerreira</b>, um entusiasta de tecnologia com uma paixão por DevOps, automação e inovação. Sempre em busca de desafios, me dedico a explorar novas ferramentas e metodologias que me permitam criar soluções escaláveis e eficientes. Acredito no poder da colaboração e no aprendizado contínuo, seja compartilhando conhecimentos ou aprimorando minhas próprias habilidades. Transformar ideias em projetos impactantes é o que me motiva todos os dias!
+
 </p>
 
 ---
