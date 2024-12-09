@@ -174,10 +174,11 @@
 ---
 <h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace; font-size: 2.5em; border-bottom: 3px solid #9b59b6; padding-bottom: 10px;">🎮 Curiosidades</h2>
 <p align="center" style="font-size: 20px; color:#bdc3c7; line-height: 1.8; letter-spacing: 0.5px; font-family: 'Roboto', sans-serif;">
-  <span style="color:#9b59b6;">🌌</span> Fascinado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
-  <span style="color:#9b59b6;">🕹️</span> Curto explorar <strong>games</strong> e criar mods com Lua.<br>
-  <span style="color:#9b59b6;">🛠️</span> Sempre buscando novos <strong>desafios</strong>.<br>
-  <span style="color:#9b59b6;">🚀</span> Aprender e inovar são minhas maiores paixões!<br>
+  <span style="color:#9b59b6;">🌌</span> Sou apaixonado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
+  <span style="color:#9b59b6;">🕹️</span> Adoro explorar <strong>games</strong> e criar mods utilizando <strong>Lua</strong>.<br>
+  <span style="color:#9b59b6;">🛠️</span> Busco constantemente novos <strong>desafios</strong> para me aprimorar.<br>
+  <span style="color:#9b59b6;">🚀</span> Aprender e inovar estão sempre no centro das minhas ações!<br>
+  <span style="color:#9b59b6;">🌱</span> O futuro é construído com curiosidade e ação!<br>
 </p>
 
 <div align="center">
@@ -185,4 +186,3 @@
     ✨ "𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔤𝔯𝔬𝔴𝔰 𝔴𝔥𝔢𝔫 𝔴𝔢 𝔥𝔞𝔳𝔢 𝔱𝔥𝔢 𝔠𝔬𝔲𝔯𝔞𝔤𝔢 𝔱𝔬 𝔮𝔲𝔢𝔰𝔱𝔦𝔬𝔫 𝔞𝔫𝔡 𝔢𝔵𝔭𝔩𝔬𝔯𝔢." 🌱
   </p>
 </div>
-
