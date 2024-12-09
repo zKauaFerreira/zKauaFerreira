@@ -15,7 +15,7 @@
 </p>
 
 <p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de <strong>tecnologia</strong> e <strong>infraestrutura</strong>. Meu trabalho gira em torno de <strong>código</strong>, <strong>automação</strong> e <strong>inovação</strong>. Adoro explorar novas <strong>ferramentas</strong> e <strong>metodologias</strong> para otimizar processos e resolver problemas. Estou sempre em busca de <strong>desafios</strong> para expandir meus conhecimentos e aprimorar minhas habilidades. Valorizo a <strong>colaboração</strong> e a troca de experiências. Meu objetivo é transformar ideias em <strong>soluções escaláveis</strong> que impactem positivamente o mundo da tecnologia!
+  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de <strong>tecnologia</strong> e <strong>infraestrutura</strong>. Meu trabalho gira em torno de <strong>código</strong>, <strong>automação</strong> e <strong>inovação</strong>. Adoro explorar novas <strong>ferramentas</strong> e <strong>metodologias</strong> para otimizar processos e resolver problemas. Estou sempre em busca de <strong>desafios</strong> para expandir meus conhecimentos e aprimorar minhas habilidades. Valorizo a <strong>colaboração</strong> e a troca de experiências. Meu objetivo é <strong>transformar<strong> ideias em <strong>soluções escaláveis</strong> que impactem positivamente o mundo da tecnologia!
 
 
 
