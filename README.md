@@ -173,25 +173,21 @@
 </div>
 
 ---
-
 <h2 align="center" style="color:#8e44ad;">📫 Vamos nos Conectar</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
+  <a href="mailto:kauaff3@gmail.com" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60" alt="Email" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
-  </a>
-  <a href="https://github.com/zKauaFerreira" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub">
+  <a href="https://github.com/zKauaFerreira" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" alt="GitHub" style="border: 3px solid #9b59b6; border-radius: 50%; padding: 10px; transition: transform 0.3s ease;">
   </a>
 </p>
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">🎮 Curiosidades</h2>
+<h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace;">🎮 Curiosidades</h2>
 <p align="center" style="font-size:18px; color:#bdc3c7;">
   🌌 Sou fascinado pelo universo da automação e infraestrutura.<br>
   🕹️ Durante meu tempo livre, gosto de explorar o mundo dos games e criar mods usando Lua.<br>
   🛠️ Estou sempre em busca de novos desafios para crescer e inovar.
-</p>
+</p> 
