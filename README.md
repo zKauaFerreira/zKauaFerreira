@@ -1,7 +1,8 @@
 <h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=DevOps+e+Entusiasta+de+Infraestrutura!;Desenvolvedor+em+Constante+Evolução!;Criando+Solucões+Inteligentes+%F0%9F%92%BB;Aprendendo+e+Ensinando+Sempre!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=DevOps+e+Entusiasta+de+Infraestrutura!;Desenvolvedor+em+Constante+Evolução!;Criando+Solucões+Inteligentes+%F0%9F%92%BB;Aprendendo+e+Ensinando+Sempre!;Transformando+Ideias+em+Código!;Focado+em+Inovação+e+Automação!;Buscando+Oportunidades+de+Crescimento!;Apaixonado+por+Tecnologia+e+Futuro!;Crescendo+a+cada+linha+de+código!" alt="Typing SVG">
 </p>
+
 
 ---
 
