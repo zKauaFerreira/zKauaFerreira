@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
-<p align="center">
+<h1 align="center" style="color:#9b59b6; font-family: 'Fira Code', monospace; background-color: #2E3440; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
+<p align="center" style="font-family: 'Fira Code', monospace; background-color: #2E3440; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+GitHub!;Onde+ideias+se+tornam+código!;Inovando+com+tecnologia!;Criando+soluções+de+impacto!;Cada+linha+de+código+é+uma+jornada!;Transformando+sonhos+em+tecnologia!;Sempre+em+busca+de+novos+desafios!;Focado+em+soluções+eficazes!;Juntos+criamos+um+futuro+melhor!" alt="Typing SVG">
 </p>
 
