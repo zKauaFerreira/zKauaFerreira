@@ -1,21 +1,23 @@
-<h1 align="center" style="color:#9b59b6;">✨ Bem-vindo(a) ao meu GitHub, zKauaFerreira! ✨</h1>
+<h1 align="center" style="color:#9b59b6; font-size: 40px; font-weight: bold; margin-bottom: 20px;">✨ Bem-vindo(a) ao meu GitHub, zKauaFerreira! ✨</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=8E44AD&center=true&vCenter=true&width=700&height=80&lines=Desenvolvedor+Fullstack;Entusiasta+DevOps;Apaixonado+por+Automação+e+Infraestrutura!;Sempre+aprendendo+e+inovando!" alt="Typing SVG">
 </p>
 
 ---
+<h2 align="center" style="color:#8e44ad; font-size: 30px; font-weight: bold; margin-bottom: 20px;">📜 Sobre Mim</h2>
 
-<h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="120" alt="Sobre Mim Icon">
 </p>
-<p align="center" style="font-size:18px; color:#bdc3c7;">
+
+<p align="center" style="font-size:18px; color:#bdc3c7; font-weight: bold;">
   👋 Meu nome é <b>zKauaFerreira</b>, sou um desenvolvedor apaixonado por tecnologia e por encontrar soluções criativas para desafios do dia a dia. Meu foco está em infraestrutura e automação, sempre buscando criar projetos escaláveis e bem otimizados. 🚀
 </p>
 
 ---
+<h2 align="center" style="color:#8e44ad; font-size: 30px; font-weight: bold; margin-bottom: 20px;">💻 Minhas Habilidades Atuais</h2>
 
-<h2 align="center" style="color:#8e44ad;">💻 Minhas Habilidades Atuais</h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" alt="Python Icon"></td>
@@ -34,8 +36,8 @@
 </table>
 
 ---
+<h2 align="center" style="color:#8e44ad; font-size: 30px; font-weight: bold; margin-bottom: 20px;">🚀 Tecnologias que gostaria de aprender</h2>
 
-<h2 align="center" style="color:#8e44ad;">🚀 Tecnologias que estou aprendendo</h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50" alt="Node.js Icon"></td>
@@ -52,6 +54,27 @@
     <td align="center">Linux</td>
   </tr>
 </table>
+
+---
+<p align="center" style="font-size: 18px; color: #bdc3c7; font-weight: bold;">
+  📈 GitHub Stats:
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zKauaFerreira&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+<p align="center" style="font-size: 18px; color: #bdc3c7; font-weight: bold;">
+  📊 Most Used Languages:
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKauaFerreira&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+---
+<p align="center" style="font-size: 18px; color: #bdc3c7; font-weight: bold;">
+  📈 Contribution Graph:
+  <br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=zKauaFerreira&theme=radical" alt="Contribution Graph">
+</p>
 
 ---
 
