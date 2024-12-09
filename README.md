@@ -1,8 +1,10 @@
-<h1 align="center" style="color:#9b59b6; font-family: 'Fira Code', monospace; background-color: #2E3440; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
-<p align="center" style="font-family: 'Fira Code', monospace; background-color: #2E3440; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+GitHub!;Onde+ideias+se+tornam+código!;Inovando+com+tecnologia!;Criando+soluções+de+impacto!;Cada+linha+de+código+é+uma+jornada!;Transformando+sonhos+em+tecnologia!;Sempre+em+busca+de+novos+desafios!;Focado+em+soluções+eficazes!;Juntos+criamos+um+futuro+melhor!" alt="Typing SVG">
+<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Focado+em%3A+Programação;Focado+em%3A+Infraestrutura;Focado+em%3A+DevOps;Focado+em%3A+Automações" alt="Typing SVG">
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+GitHub!+;Onde+tecnologia+e+inovação+se+encontram!;Sempre+explorando+novos+desafios!;Criando+soluções+com+paixão+e+dedicação!;Transformando+ideias+em+projetos+impactantes!;Focado+em+automação+e+futuro!;Construindo+um+mundo+digital+melhor!;Entusiasta+de+infraestrutura+e+automação!;Cada+linha+de+código+é+um+passo+para+o+futuro!" alt="Typing SVG">
+</p>
 
 <h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
 <p align="center">
