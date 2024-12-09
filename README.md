@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=DevOps+e+Entusiasta+de+Infraestrutura!;Desenvolvedor+em+Constante+Evolução!;Criando+Solucões+Inteligentes+%F0%9F%92%BB;Aprendendo+e+Ensinando+Sempre!;Transformando+Ideias+em+Código!;Focado+em+Inovação+e+Automação!;Buscando+Oportunidades+de+Crescimento!;Apaixonado+por+Tecnologia+e+Futuro!;Crescendo+a+cada+linha+de+código!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+GitHub!+;Onde+tecnologia+e+inovação+se+encontram!;Sempre+explorando+novos+desafios!;Criando+soluções+com+paixão+e+dedicação!;Transformando+ideias+em+projetos+impactantes!;Focado+em+automação+e+futuro!;Construindo+um+mundo+digital+melhor!;Entusiasta+de+infraestrutura+e+automação!;Cada+linha+de+código+é+um+passo+para+o+futuro!" alt="Typing SVG">
 </p>
 
 <h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
