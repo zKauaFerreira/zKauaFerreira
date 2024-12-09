@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou Kauã Ferreira! 🌟</h1>
+
+<h1 align="center" style="color:#9b59b6;">🚀 Bem-vindo ao meu espaço digital! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Explorando+tecnologias+e+inovações+com+dedicação;Focado+em+infraestrutura,+automação+e+desafios+futuros;Transformando+ideias+em+soluções+impactantes+e+inovadoras;Cada+linha+de+código+é+um+passo+para+um+mundo+melhor;Apaixonado+por+desenvolvimento+e+infraestrutura+digital!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Eu+sou+Kauã+Ferreira,+um+explorador+da+tecnologia;Transformando+desafios+em+soluções+inovadoras+com+paixão;Sempre+em+busca+do+próximo+desafio+em+infraestrutura+e+automação;Construindo+um+futuro+digital+com+criatividade+e+diligência;O+meu+código+é+minha+arte+e+minha+missão+é+transformar!" alt="Typing SVG">
 </p>
 
 
