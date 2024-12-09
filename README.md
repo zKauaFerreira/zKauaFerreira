@@ -1,22 +1,18 @@
-<div align="center" style="margin-bottom:20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=4000&pause=1000&color=FFC300&center=true&vCenter=true&width=900&height=60&lines=✨+Bem-vindo(a)+ao+GitHub+do+zKauaFerreira!+✨" alt="Typing SVG">
-</div>
+<h1 align="center" style="color:#9b59b6;">🌟 Olá, eu sou zKauaFerreira! 🌟</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=DevOps+e+Entusiasta+de+Infraestrutura!;Desenvolvedor+em+Constante+Evolução!;Criando+Solucões+Inteligentes+%F0%9F%92%BB;Aprendendo+e+Ensinando+Sempre!" alt="Typing SVG">
+</p>
 
 ---
 
-<h2 align="center" style="color:#16a085; font-size:36px;">🌟 Olá, eu sou o zKauaFerreira! 🌟</h2>
-
-<p align="center" style="font-size:20px; color:#2c3e50;">
-  👋 Seja muito bem-vindo(a) ao meu GitHub! Aqui, você vai encontrar minha jornada como desenvolvedor e entusiasta de tecnologia. 🌐<br>
-  🚀 Minha paixão é construir soluções inovadoras e transformar ideias em realidade. Estou sempre em busca de aprender, evoluir e aplicar novas tecnologias para impactar positivamente o mundo ao meu redor. 💡<br>
-  🔧 Junte-se a mim nesse caminho, onde cada linha de código é uma oportunidade para crescer e criar algo incrível! 🚀
+<h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100" height="100" alt="Sobre Mim Icon">
 </p>
 
-<div align="center">
-  <!-- Aqui, você pode adicionar um ícone ou uma imagem visual que combine com sua identidade -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4144/4144565.png" width="150" alt="Sobre Mim Icon">
-</div>
-
+<p align="center" style="font-size:18px; color:#bdc3c7;">
+  👋 Olá! Meu nome é <b>zKauaFerreira</b>, um desenvolvedor apaixonado por tecnologia, DevOps e soluções criativas. Adoro explorar novas linguagens, ferramentas e métodos para criar soluções inteligentes e impactantes.
+</p>
 
 ---
 
