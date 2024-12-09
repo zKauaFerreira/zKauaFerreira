@@ -194,7 +194,7 @@
 
 <div align="center">
   <p style="font-size: 28px; color:#9b59b6; font-weight: bold; padding: 20px 10px; border-radius: 10px; background: linear-gradient(to right, #9b59b6, #8e44ad); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    ✨ *"Knowledge grows when we have the courage to question and explore."* 🌱
+    ✨ "𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔤𝔯𝔬𝔴𝔰 𝔴𝔥𝔢𝔫 𝔴𝔢 𝔥𝔞𝔳𝔢 𝔱𝔥𝔢 𝔠𝔬𝔲𝔯𝔞𝔤𝔢 𝔱𝔬 𝔮𝔲𝔢𝔰𝔱𝔦𝔬𝔫 𝔞𝔫𝔡 𝔢𝔵𝔭𝔩𝔬𝔯𝔢." 🌱
   </p>
 </div>
 
