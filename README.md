@@ -175,7 +175,7 @@
 <h2 align="center" style="color:#8e44ad; font-family: 'Fira Code', monospace; font-size: 2.5em; border-bottom: 3px solid #9b59b6; padding-bottom: 10px;">🎮 Curiosidades</h2>
 <p align="center" style="font-size: 20px; color:#bdc3c7; line-height: 1.8; letter-spacing: 0.5px; font-family: 'Roboto', sans-serif;">
   <span style="color:#9b59b6;">🌌</span> Sou apaixonado por <strong>automação</strong> e <strong>infraestrutura</strong>.<br>
-  <span style="color:#9b59b6;">🕹️</span> Adoro explorar <strong>games</strong> e criar mods com <strong>Lua</strong>.<br>
+  <span style="color:#9b59b6;">🕹️</span> Adoro explorar <strong>games</strong> e criar mods com <strong>Lua</strong> e <strong>Java<strong>.<br>
   <span style="color:#9b59b6;">🛠️</span> Gosto de aprender e explorar novas <strong>tecnologias</strong>.<br>
   <span style="color:#9b59b6;">🚀</span> Estou sempre em busca de <strong>desafios</strong> e crescimento.<br>
   <span style="color:#9b59b6;">⚙️</span> Curto automação e a criação de <strong>soluções</strong> inovadoras.<br>
