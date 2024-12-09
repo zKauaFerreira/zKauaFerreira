@@ -193,6 +193,9 @@
 </p>
 
 <div align="center">
-  <p style="font-family: 'Dancing Script', cursive; font-size: 24px; color:#9b59b6; padding-top: 10px; font-weight: bold;">"Com a curiosidade que você aprende."</p>
+  <p style="font-family: 'Dancing Script', cursive; font-size: 28px; color:#9b59b6; font-weight: bold; padding: 20px 10px; border-radius: 10px; background: linear-gradient(to right, #9b59b6, #8e44ad); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+    *"O conhecimento cresce quando temos a coragem de questionar e explorar."*
+  </p>
 </div>
+
 
