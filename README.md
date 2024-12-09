@@ -1,7 +1,8 @@
-<h1 align="center" style="color:#9b59b6;">💻 Hey, sou Kauã Ferreira! 🚀</h1>
+<h1 align="center" style="color:#9b59b6;">💻 Hello, I'm Kauã Ferreira! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Desenvolvedor+apaixonado+por+tecnologia;Focado+em+infraestrutura+e+automação;Explorando+novos+desafios+a+cada+código;Transformando+ideias+em+soluções+impactantes!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=80&lines=Tech+enthusiast+and+DevOps;Passionate+about+automation+and+infrastructure;Always+seeking+new+challenges;Transforming+ideas+into+impactful+solutions;Dedicated+to+continuous+learning+and+growth!" alt="Typing SVG">
 </p>
+
 
 
 <h2 align="center" style="color:#8e44ad;">📜 Sobre Mim</h2>
