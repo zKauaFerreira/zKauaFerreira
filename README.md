@@ -161,15 +161,15 @@
 
 <h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kauã Ferreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauã Ferreira&layout=compact&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&border_radius=10&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=zKauaFerreira&show_icons=true&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&icon_color=e91e63&border_radius=10&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKauaFerreira&layout=compact&bg_color=0D1117&title_color=9b59b6&text_color=bdc3c7&border_radius=10&hide_border=true" alt="Top Languages" width="48%">
 </div>
 
 ---
 
 <h2 align="center" style="color:#8e44ad;">🌟 Meus Destaques</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kauã Ferreira&theme=algolia&no-frame=true&row=1&column=6" alt="Troféus do GitHub">
+  <img src="https://github-profile-trophy.vercel.app/?username=zKauaFerreira&theme=algolia&no-frame=true&row=1&column=6" alt="Troféus do GitHub">
 </div>
 
 ---
@@ -182,7 +182,7 @@
   <a href="mailto:seu-email@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email">
   </a>
-  <a href="https://github.com/Kauã Ferreira" target="_blank">
+  <a href="https://github.com/zKauaFerreira" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub">
   </a>
 </p>
