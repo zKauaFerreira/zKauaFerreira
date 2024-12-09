@@ -15,7 +15,10 @@
 </p>
 
 <p align="center" style="font-size:18px; color:#bdc3c7;">
-  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de tecnologia com uma paixão por DevOps, automação e inovação. Sempre em busca de desafios, me dedico a explorar novas ferramentas e metodologias que me permitam criar soluções escaláveis e eficientes. Acredito no poder da colaboração e no aprendizado contínuo, seja compartilhando conhecimentos ou aprimorando minhas próprias habilidades. Transformar ideias em projetos impactantes é o que me motiva todos os dias!
+  👋 Olá! Eu sou o <b>Kauã Ferreira</b>, um entusiasta de <strong>tecnologia</strong> e <strong>infraestrutura</strong>. Meu trabalho gira em torno de <strong>código</strong>, <strong>automação</strong> e <strong>inovação</strong>. Adoro explorar novas <strong>ferramentas</strong> e <strong>metodologias</strong> para otimizar processos e resolver problemas. Estou sempre em busca de <strong>desafios</strong> para expandir meus conhecimentos e aprimorar minhas habilidades. Valorizo a <strong>colaboração</strong> e a troca de experiências. Meu objetivo é transformar ideias em <strong>soluções escaláveis</strong> que impactem positivamente o mundo da tecnologia!
+
+
+
 
 </p>
 
