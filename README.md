@@ -45,22 +45,40 @@
         <strong>Docker</strong>
       </td>
     </tr>
-  </table>
-</div>
-<p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Essas são as ferramentas que utilizo para criar soluções robustas e otimizar processos.</em>
-</p>
-
----
-
-<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Estou Estudando</h2>
-<div align="center">
-  <table>
     <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux Icon"><br>
+        <strong>Linux</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows Icon"><br>
+        <strong>Windows</strong>
+      </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js Icon"><br>
         <strong>Node.js</strong>
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=shell" width="50" alt="Shell Script Icon"><br>
+        <strong>Shell Script</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=batch" width="50" alt="Batch Icon"><br>
+        <strong>Batch</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+<p align="center" style="color:#bdc3c7; font-size:16px;">
+  <em>Essas são as tecnologias que já domino e utilizo para criar soluções eficientes e robustas.</em>
+</p>
+
+---
+
+<h2 align="center" style="color:#16a085;">🚀 Tecnologias que Quero Aprender</h2>
+<div align="center">
+  <table>
+    <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=lua" width="50" alt="Lua Icon"><br>
         <strong>Lua</strong>
@@ -77,20 +95,41 @@
         <img src="https://skillicons.dev/icons?i=react" width="50" alt="React Icon"><br>
         <strong>React</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS Icon"><br>
         <strong>Tailwind</strong>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=rust" width="50" alt="Rust Icon"><br>
+        <strong>Rust</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=freebsd" width="50" alt="FreeBSD Icon"><br>
+        <strong>FreeBSD</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cybersecurity" width="50" alt="Cybersecurity Icon"><br>
+        <strong>Cybersecurity</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ml" width="50" alt="Machine Learning Icon"><br>
+        <strong>Machine Learning</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=elixir" width="50" alt="Elixir Icon"><br>
+        <strong>Elixir</strong>
+      </td>
+    </tr>
   </table>
 </div>
 <p align="center" style="color:#bdc3c7; font-size:16px;">
-  <em>Atualmente, estou me aprofundando em Node.js, Lua, C++, C#, React, Tailwind e outros frameworks que expandem minhas habilidades.</em>
+  <em>Estou me dedicando ao aprendizado de novas tecnologias como Rust, React, Machine Learning, Elixir e muito mais!</em>
 </p>
 
 ---
+
 
 
 
